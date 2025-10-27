@@ -29,5 +29,6 @@ git remote add origin https://github.com/Aqueel101/Gitdemo.git
 git pull origin main
 git status
 git add file name (to push a file)  OR   git add . (to push all files)
-git commit m "Commit Message" (Comment)
+git commit -m "Commit Message" (Comment)
 git push
+git push --set-upstream origin master
