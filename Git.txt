@@ -1,0 +1,17 @@
+Git Signup 
+Create Git Repo
+Download Git
+Connect With Visual Code Studio With Login
+Clone Repo at Local Machine
+
+
+Create Branch
+Commit 
+Push or Pull
+Commit Merge (Merge With Main Branch)
+Clear Terminal Data (Clear)
+Changing Directory Means Accessing Folders (CD Folder Name) Use Tab To Auto Complete Folder Name
+(ls) TO Access Folder List
+(ls -a) TO Access Hidden Folder Also
+To Check Git Config 
+Git Config --list
