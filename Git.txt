@@ -1,7 +1,6 @@
 Git Signup 
 Create Git Repo
 Download Git
-Connect With Visual Code Studio With Login
 Clone Repo at Local Machine
 
 
@@ -21,7 +20,15 @@ git add (File Name) to Add Single File
 Commit To Update Changes 
 (git Commit -m ("Some Message")
 
-Push or Pull
+Git Push Upload local repo content to remote repo
+git push -u origin master
+git push 
+
+
+Login Authentication
+Connect With Visual Code Studio With Login
+
+Pull
 Commit Merge (Merge With Main Branch)
 Clear Terminal Data (Clear)
 Changing Directory Means Accessing Folders (CD Folder Name) Use Tab To Auto Complete Folder Name
