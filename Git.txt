@@ -6,7 +6,21 @@ Clone Repo at Local Machine
 
 
 Create Branch
-Commit 
+
+GIT STATUS to show status of files
+Untracked  - New Files That git doesn't yet track
+Modified   - Changed
+Staged     - File Is Ready to be Commited
+Unmodified - Unchanged
+
+
+GIT ADD New or Changed Files in working directory to the git staging area. (Means Recording Started)
+git add (.) For All File Add Tracking 
+git add (File Name) to Add Single File
+
+Commit To Update Changes 
+(git Commit -m ("Some Message")
+
 Push or Pull
 Commit Merge (Merge With Main Branch)
 Clear Terminal Data (Clear)
