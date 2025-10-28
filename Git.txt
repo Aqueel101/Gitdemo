@@ -1,7 +1,23 @@
 Git Signup 
-Create Git Repo
-Download Git
-Clone Repo at Local Machine
+Create Git Repo without readme file to get shortcuts inline command
+Download Git and install in local machine
+Clone Repo from Remote Location to Local Machine
+
+
+create a new repository on the command line
+
+echo "# Shortcut-of-GIT" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Aqueel101/Shortcut-of-GIT.git
+git push -u origin main
+
+push an existing repository from the command line
+git remote add origin https://github.com/Aqueel101/Shortcut-of-GIT.git
+git branch -M main
+git push -u origin main
 
 
 Create Branch
