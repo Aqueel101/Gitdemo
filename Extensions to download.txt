@@ -32,3 +32,54 @@ git add file name (to push a file)  OR   git add . (to push all files)
 git commit -m "Commit Message" (Comment)
 git push
 git push --set-upstream origin master
+git push
+Now Connection Was established and updated a push
+
+git checkout -b "Branchname" (To Create Branch)
+git checkout "Branchname" (To Switch Between Branches)
+git clone https://URL.com/aqueel101 (To Clone Repo into pc)
+
+
+index. html
+styles .css
+script. js
+URL (Uniform Resource Locator) :
+https : //educat ion.webDev.edu/Fu11stack
+https: Protcol
+webDev: Server/Domain Name
+education: sub-Domain
+.edu: TLD (Top Level Domain)
+Fullstack: page
+
+
+Protcol: A set of rules/instructions
+http: hyper text transfer protocol
+https: hyper text transfer protocol secure
+ftp: file transfer protocol
+smtp: simple mail transfer protocol
+tcp: transmission control protocol
+upd: userdatagram protocol
+ip: internet protocol
+http --- SSL (Secure Socket Layer) Certification ---> https
+
+TLD:
+.edu: education
+.in: India
+.com: connercial
+.uk: united kingdoms
+
+
+HTML (I-yper Text markup Language)
+Tags :
+<> 	: Opening Tag
+</ > 	: closing Tag
+< /> 	: Self closing Tag
+
+<P> For Dummy Text : Lorem6 For 6 words text </P>
+
+Attribute : always present in opening tag <p id="Demopara">
+
+Comment : Ctrl+> 
+
+emmet abbrivation
+
